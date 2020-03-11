@@ -1,2 +1,5 @@
-# marina-bolondut
-Tribute Page to Gianni Versace
+# A Tribute to Gianni Versace
+
+
+#### Created by Marina Bolondut
+
